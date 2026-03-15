@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 06:29:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-15 18:33:33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -631,6 +631,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
 潍坊新闻综合,https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-2.m3u8
 潍坊新闻综合,https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-1.m3u8
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 
 🎬电影频道,#genre#
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
@@ -937,7 +942,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-2.m3u8
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
