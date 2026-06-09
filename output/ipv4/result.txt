@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-09 20:43:39,http://101.66.195.125:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-06-10 07:20:36,http://107.150.60.122/live/ysjp.m3u8
 
 📺央视频道,#genre#
-CCTV-14,http://101.66.195.125:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💰央视付费频道,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -12,8 +10,6 @@ CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-广东卫视,http://101.66.195.125:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://101.66.195.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://101.66.195.125:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -21,14 +17,16 @@ CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 江苏卫视,http://101.66.195.125:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://101.66.195.125:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://115.48.161.50:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://125.43.244.34:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://125.43.244.34:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🎬电影频道,#genre#
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
@@ -49,6 +47,7 @@ CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -58,8 +57,8 @@ CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
-炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
